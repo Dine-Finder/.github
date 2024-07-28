@@ -1,8 +1,8 @@
-# DineFinder 🍽️
+<div align="center">
+    <img src="./images/logo.png" alt="logo" width="250">
+</div>
 
-DineFinder is a restaurant recommendation system designed to help you find the best dining spots in Manhattan, New York City. Leveraging historical taxi trip data, advanced machine learning techniques, and real-time busyness predictions, DineFinder ensures you can avoid crowded restaurants and have a delightful dining experience.
-
-## 🛡️ GitHub Badges
+## GitHub Badges
 
 | Backend | Frontend |
 | --- | --- |
@@ -11,14 +11,34 @@ DineFinder is a restaurant recommendation system designed to help you find the b
 | ![GitHub stars](https://img.shields.io/github/stars/Dine-Finder/Backend) | ![GitHub stars](https://img.shields.io/github/stars/Dine-Finder/Frontend) |
 | ![GitHub license](https://img.shields.io/github/license/Dine-Finder/Backend) | ![GitHub license](https://img.shields.io/github/license/Dine-Finder/Frontend) |
 
-## 📈 Commit History
+## Commit History
 
 | Backend | Frontend |
 | --- | --- |
 | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dine-Finder/Backend) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dine-Finder/Frontend) |
 | ![GitHub last commit](https://img.shields.io/github/last-commit/Dine-Finder/Backend) | ![GitHub last commit](https://img.shields.io/github/last-commit/Dine-Finder/Frontend) |
 
-## 🧰 Tech Stack Badges 
+# DineFinder 
+
+DineFinder is a restaurant recommendation system designed to help you find the best dining spots in Manhattan, New York City. Leveraging historical taxi trip data, advanced machine learning techniques, and real-time busyness predictions, DineFinder ensures you can avoid crowded restaurants and have a delightful dining experience.
+
+## Table of Contents
+- [DineFinder](#dinefinder)
+  - [Table of Contents](#table-of-contents)
+  - [Tech Stack Badges](#tech-stack-badges)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Gallery](#gallery)
+    - [Mobile View](#mobile-view)
+    - [Desktop View](#desktop-view)
+  - [What Makes Us Unique](#what-makes-us-unique)
+  - [Technologies Used](#technologies-used)
+  - [Working Videos](#working-videos)
+    - [Mobile Working Video](#mobile-working-video)
+    - [Desktop Working Video](#desktop-working-video)
+
+
+## Tech Stack Badges 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -51,51 +71,64 @@ DineFinder is a restaurant recommendation system designed to help you find the b
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-## 📜 Introduction
+## Introduction
 Manhattan is known for its diverse culinary scene, but choosing the right restaurant can be overwhelming. DineFinder simplifies this process by providing real-time restaurant busyness predictions and personalized recommendations based on user preferences and sentiment analysis of reviews. Whether you're a local or a visitor, DineFinder enhances your dining experience by guiding you to the best times and locations for your meals.
 
-## ⭐ Features
+## Features
 - **Real-Time Busyness Predictions**: Avoid crowded restaurants with up-to-date occupancy data.
 - **Personalized Recommendations**: Get suggestions tailored to your tastes based on review sentiment analysis.
 - **Tag-Based Search**: Use tags generated from reviews to find restaurants matching your specific preferences.
 - **Interactive Maps**: Visualize restaurant locations and busyness levels on dynamic maps.
 - **Sentiment Analysis**: Understand the overall sentiment towards restaurants from aggregated review data.
 
+## Gallery
 
-## 🖼️ Gallery
+### Mobile View 
+<div align="center">
+    <img src="./images/mobile1.jpg" alt="Mobile View 1" width="250">
+    <img src="./images/mobile2.jpg" alt="Mobile View 2" width="250">
+    <img src="./images/mobile3.jpg" alt="Mobile View 3" width="250">
+    <img src="./images/mobile4.jpg" alt="Mobile View 4" width="250">
+</div>
 
-### Mobile View 📱
-<img src="path/to/mobile-view1.png" alt="Mobile View 1" width="200">
-<img src="path/to/mobile-view2.png" alt="Mobile View 2" width="200">
-<img src="path/to/mobile-view3.png" alt="Mobile View 3" width="200">
-<img src="path/to/mobile-view4.png" alt="Mobile View 4" width="200">
+### Desktop View 
+<div align="center">
+    <img src="./images/desktop1.png" alt="Desktop View 1" width="500">
+    <img src="./images/desktop2.png" alt="Desktop View 2" width="500">
+    <img src="./images/desktop3.png" alt="Desktop View 3" width="500">
+</div>
 
-### Desktop View 💻
-<img src="path/to/desktop-view1.png" alt="Desktop View 1" width="400">
-<img src="path/to/desktop-view2.png" alt="Desktop View 2" width="400">
-<img src="path/to/desktop-view3.png" alt="Desktop View 3" width="400">
-
-
-## 💎 What Makes Us Unique
+## What Makes Us Unique
 - **Historical Taxi Data**: Utilizes taxi trip data to predict restaurant busyness.
 - **Advanced ML Models**: Combines Google BERT for NLP tasks and XGBoost for predictive modeling.
 - **User-Centric Design**: Focuses on enhancing user experience with a friendly interface and intuitive navigation.
 - **Comprehensive Dataset**: Integrates various data sources to provide accurate and reliable recommendations.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Backend**: Flask, Gunicorn, NGINX
 - **Frontend**: React, Vite, Tailwind CSS, Leaflet, Chart.js, Material UI
 - **Database**: MySQL, SQLAlchemy
 - **Machine Learning**: Google BERT, XGBoost
 - **CI/CD**: GitHub Actions, Docker
 
-## 🎥 Working Videos
+## Working Videos
 
-### Mobile Working Video
-![Mobile Working Video](path/to/mobile-working-video.gif)
+### Mobile Working Video 
 
-### Desktop Working Video
-![Desktop Working Video](path/to/desktop-working-video.gif)
+<div align="center">
+  <video width="400" controls autoplay muted>
+    <source src="./videos/mobile.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+### Desktop Working Video 
+<div align="center">
+  <video width="1000" controls autoplay muted>
+    <source src="./videos/desktop2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
