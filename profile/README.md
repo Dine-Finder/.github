@@ -4,6 +4,14 @@
 
 # Dine Finder - A Restaurant Recommendation System Web App
 
+## Video Tutorial of web app
+
+<p align="center">
+  <a href="https://youtu.be/I2ugolvJmPA">
+    <img src="https://connectthedotspr.com/wp-content/uploads/2018/06/watch-video-icon.jpg" alt="Watch the video" width="200">
+  </a>
+</p>
+
 ## GitHub Badges
 
 | Backend | Frontend |
