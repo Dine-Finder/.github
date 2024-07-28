@@ -4,13 +4,17 @@
 
 # Dine Finder - A Restaurant Recommendation System Web App
 
-## Video Tutorial of web app
+## Video Tutorial of Web App
 
-<p align="center">
-  <a href="https://youtu.be/I2ugolvJmPA">
-    <img src="https://connectthedotspr.com/wp-content/uploads/2018/06/watch-video-icon.jpg" alt="Watch the video" width="200">
-  </a>
-</p>
+<div align="center">
+    <a href="https://drive.google.com/file/d/1uo20iylfyqcVyvLDu2RwTZr3hwPQEUZk/view?usp=sharing" target="_blank">
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/09ddd525558993.5634739716ef7.gif" alt="Watch the video" width="200" height="200">
+    </a>
+    <a href="https://drive.google.com/file/d/1fyjC-zBjuh4BglQElw0IyZR9lyuEVTDb/view?usp=sharing" target="_blank">
+        <img src="https://i.pinimg.com/originals/a9/aa/fa/a9aafa325ea3b4c4f8330a9b30fdf3cb.gif" alt="Watch the video" width="200" height="200">
+    </a>
+</div>
+
 
 ## GitHub Badges
 
@@ -120,26 +124,6 @@ Manhattan is known for its diverse culinary scene, but choosing the right restau
 - **Database**: MySQL, SQLAlchemy
 - **Machine Learning**: Google BERT, XGBoost
 - **CI/CD**: GitHub Actions, Docker
-
-## Working Videos
-
-### Mobile Working Video 
-
-<div align="center">
-  <video width="400" controls autoplay muted>
-    <source src="./videos/mobile.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-### Desktop Working Video 
-<div align="center">
-  <video width="1000" controls autoplay muted>
-    <source src="./videos/desktop2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
 ---
 
 Made with ❤️ by Group 10: Mohammed Musaddique, Haoyu Zheng, Barry Carmody, Bhargav Nikumbh
