@@ -1,6 +1,8 @@
 <div align="center">
-    <img src="./images/logo.png" alt="logo" width="250">
+    <img src="./images/logo.png" alt="logo" width="150">
 </div>
+
+# Dine Finder - A Restaurant Recommendation System Web App
 
 ## GitHub Badges
 
