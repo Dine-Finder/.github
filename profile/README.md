@@ -85,17 +85,17 @@ Manhattan is known for its diverse culinary scene, but choosing the right restau
 
 ### Mobile View 
 <div align="center">
-    <img src="./images/mobile1.jpg" alt="Mobile View 1" width="250">
-    <img src="./images/mobile2.jpg" alt="Mobile View 2" width="250">
-    <img src="./images/mobile3.jpg" alt="Mobile View 3" width="250">
-    <img src="./images/mobile4.jpg" alt="Mobile View 4" width="250">
+    <img src="./images/mobile1.jpg" alt="Mobile View 1" width="200">
+    <img src="./images/mobile2.jpg" alt="Mobile View 2" width="200">
+    <img src="./images/mobile3.jpg" alt="Mobile View 3" width="200">
+    <img src="./images/mobile4.jpg" alt="Mobile View 4" width="200">
 </div>
 
 ### Desktop View 
 <div align="center">
-    <img src="./images/desktop1.png" alt="Desktop View 1" width="500">
-    <img src="./images/desktop2.png" alt="Desktop View 2" width="500">
-    <img src="./images/desktop3.png" alt="Desktop View 3" width="500">
+    <img src="./images/desktop1.png" alt="Desktop View 1" width="400">
+    <img src="./images/desktop2.png" alt="Desktop View 2" width="400">
+    <img src="./images/desktop3.png" alt="Desktop View 3" width="400">
 </div>
 
 ## What Makes Us Unique
