@@ -4,7 +4,7 @@
 
 # Dine Finder - A Restaurant Recommendation System Web App
 
-## Video Tutorial of Web App chick on the image for mobile or desktop versions
+## Video Tutorial of Web App chick on the gif for mobile or desktop versions
 
 <div align="center">
     <a href="https://drive.google.com/file/d/1uo20iylfyqcVyvLDu2RwTZr3hwPQEUZk/view?usp=sharing" target="_blank">
